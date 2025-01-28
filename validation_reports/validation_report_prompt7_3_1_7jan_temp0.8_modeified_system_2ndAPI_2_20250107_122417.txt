@@ -1,0 +1,2059 @@
+Type 1 Scenario Validation Summary
+==================================================
+Report Generated: 2025-01-07 12:24:17
+--------------------------------------------------
+Total scenarios processed: 50
+Completely valid scenarios: 0 (0.0%)
+Scenarios with correct aircraft count (1-4): 50 (100.0%)
+Scenarios with all aircraft on same airway: 8 (16.0%)
+
+Detailed Results
+--------------------
+
+Scenario: scenario_20250107_121111_iteration_12.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WBKK
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WBKK
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121124_iteration_14.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121130_iteration_15.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121005_iteration_2.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121222_iteration_23.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121229_iteration_24.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121209_iteration_21.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121156_iteration_19.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121432_iteration_43.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121117_iteration_13.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121037_iteration_7.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WBKK
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WBKK
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121242_iteration_26.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121326_iteration_33.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121031_iteration_6.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121024_iteration_5.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121438_iteration_44.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WBKK
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WBKK
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121503_iteration_48.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121405_iteration_39.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121044_iteration_8.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121457_iteration_47.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WBKK
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WBKK
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121359_iteration_38.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WBKK
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WBKK
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121018_iteration_4.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121319_iteration_32.xdat
+Aircraft Count: ✓ (3 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121418_iteration_41.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121235_iteration_25.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121216_iteration_22.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_120958_iteration_1.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121425_iteration_42.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121137_iteration_16.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121346_iteration_36.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121412_iteration_40.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121445_iteration_45.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121308_iteration_30.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121011_iteration_3.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121058_iteration_10.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WBKK
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WBKK
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121333_iteration_34.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WSSS
+    - Invalid destination airport. Expected: WBKK, Found: ZSFZ
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121352_iteration_37.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121255_iteration_28.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WBKK
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WBKK
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121314_iteration_31.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121339_iteration_35.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121051_iteration_9.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121203_iteration_20.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121516_iteration_50.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121450_iteration_46.xdat
+Aircraft Count: ✓ (3 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121143_iteration_17.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121510_iteration_49.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WBKK
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WBKK
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121301_iteration_29.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WBKK
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WBKK
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121104_iteration_11.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121248_iteration_27.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WSSS
+    - Invalid destination airport. Expected: WBKK, Found: ZSFZ
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_121150_iteration_18.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL
+  Matching Airway: None
+  Departure: N/A
+  Destination: N/A
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['LUSMO', 'OPULA', 'ELGOR', 'MABAL', 'VISAT', 'URIGO', 'IDSEL']
+
+Aircraft 3:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------

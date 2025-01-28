@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<ifp>
+	<experiment-date>
+		<day>6</day>
+		<month>3</month>
+		<year>2022</year>
+	</experiment-date>
+	<experiment-time>00000</experiment-time>
+	<default-equipment>SSR_MODE_A+SSR_MODE_C+P_RNAV+FMS+FMS_GUIDANCE_VNAV+FMS_GUIDANCE_SPEED</default-equipment>
+	<initial-flightplans key="initial-flightplans:1">
+		<usage>ALL</usage>
+		<time>300</time>
+		<callsign>SQ1</callsign>
+		<rules/>
+		<squawk units="octal">6067</squawk>
+		<type>A320</type>
+		<waketurb>MEDIUM</waketurb>
+		<equip/>
+		<vehicle_type/>
+		<dep>
+			<af>WMKK</af>
+			<rwy/>
+		</dep>
+		<des>
+			<af>WBKK</af>
+		</des>
+		<air_route>IDSEL</air_route>
+		<air_route>URIGO</air_route>
+		<air_route>VISAT</air_route>
+		<air_route>MABAL</air_route>
+		<air_route>ELGOR</air_route>
+		<air_route>OPULA</air_route>
+		<air_route>LUSMO</air_route>
+		<rfl>370</rfl>
+		<init>
+			<pos>
+				<lat>032432.00N</lat>
+				<lon>1035544.00E</lon>
+			</pos>
+			<freq>SINRADS1</freq>
+			<alt units="FL">370</alt>
+			<hdg>087.11</hdg>
+		</init>
+	</initial-flightplans>
+	<initial-flightplans key="initial-flightplans:2">
+		<usage>ALL</usage>
+		<time>330</time>
+		<callsign>SQ2</callsign>
+		<rules/>
+		<squawk units="octal">6267</squawk>
+		<type>B744</type>
+		<waketurb>HEAVY</waketurb>
+		<equip/>
+		<vehicle_type/>
+		<dep>
+			<af>WBKK</af>
+			<rwy/>
+		</dep>
+		<des>
+			<af>WMKK</af>
+		</des>
+		<air_route>IDSEL</air_route>
+		<air_route>URIGO</air_route>
+		<air_route>VISAT</air_route>
+		<air_route>MABAL</air_route>
+		<air_route>ELGOR</air_route>
+		<air_route>OPULA</air_route>
+		<air_route>LUSMO</air_route>
+		<rfl>340</rfl>
+		<init>
+			<pos>
+				<lat>033341.00N</lat>
+				<lon>1065534.00E</lon>
+			</pos>
+			<freq>SINRADS1</freq>
+			<alt units="FL">340</alt>
+			<hdg>270.00</hdg>
+		</init>
+	</initial-flightplans>
+	<initial-flightplans key="initial-flightplans:3">
+		<usage>ALL</usage>
+		<time>360</time>
+		<callsign>SQ3</callsign>
+		<rules/>
+		<squawk units="octal">7147</squawk>
+		<type>B738</type>
+		<waketurb>MEDIUM</waketurb>
+		<equip/>
+		<vehicle_type/>
+		<dep>
+			<af>WMKK</af>
+			<rwy/>
+		</dep>
+		<des>
+			<af>WCTM</af>
+		</des>
+		<air_route>IDSEL</air_route>
+		<air_route>URIGO</air_route>
+		<air_route>VISAT</air_route>
+		<air_route>MABAL</air_route>
+		<air_route>ELGOR</air_route>
+		<air_route>OPULA</air_route>
+		<air_route>LUSMO</air_route>
+		<rfl>380</rfl>
+		<init>
+			<pos>
+				<lat>032439.00N</lat>
+				<lon>1051128.00E</lon>
+			</pos>
+			<freq>SINRADS1</freq>
+			<alt units="FL">380</alt>
+			<hdg>253.42</hdg>
+		</init>
+	</initial-flightplans>
+</ifp>

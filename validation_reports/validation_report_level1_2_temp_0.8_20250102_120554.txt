@@ -1,0 +1,10 @@
+Validation Summary
+==================================================
+Report Generated: 2025-01-02 12:05:54
+--------------------------------------------------
+Total scenarios processed: 50
+Completely valid scenarios: 31 (62.0%)
+Scenarios with correct aircraft count: 50 (100.0%)
+
+Detailed Results
+--------------------

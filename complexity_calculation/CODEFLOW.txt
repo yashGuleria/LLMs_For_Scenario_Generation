@@ -1,0 +1,10 @@
+The flow of various modules is as follows:
+
+1. Use file "extracting_aircraft_infor_from _scenario.ipynb" to extract the aircraft info from the xdat file (scenario file)
+    this will output a file similar to "aricraft_data.csv". The coordinates with be in DMS which must be converted to decimal format.
+
+2. Use the file "conversion_to_dd.ipynb" to convert the aircraft data to dd format from DMS.
+
+3. Use the file "data_processing.ipynb" to merge the aircraft data_decimal and the airway_data_decimal file to create a single merged_aircraft_airways file.
+
+

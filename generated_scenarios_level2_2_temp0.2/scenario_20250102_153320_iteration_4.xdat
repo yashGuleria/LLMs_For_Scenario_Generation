@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<ifp>
+	<experiment-date>
+		<day>6</day>
+		<month>3</month>
+		<year>2022</year>
+	</experiment-date>
+	<experiment-time>00000</experiment-time>
+	<default-equipment>SSR_MODE_A+SSR_MODE_C+P_RNAV+FMS+FMS_GUIDANCE_VNAV+FMS_GUIDANCE_SPEED</default-equipment>
+</ifp>

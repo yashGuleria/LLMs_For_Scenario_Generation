@@ -1,0 +1,58 @@
+how many aircraft are there in a medium density scenario?
+
+give me the informatin of airway M771.
+
+Generate a medium density traffic scenario. Ensure complete air routes. give the output in a single JSON file.
+
+Generate a medium density traffic scenario. Ensure to use complete air_routes from the document. give the output in a single JSON file.
+
+
+Add another aircraft to the previous file on airway M771 at time 150. Generate a single JSON file for the combined output.
+
+
+List out all the airways in the data bundle.
+
+
+Model fails to answer / list the number of airways . Instead repeatedly give the waypoints. terminology issue?? airway - -> air route - -> waypoint.?
+
+
+Generate a two aircraft scenario. One aircraft on airway M758 and second aircraft on airway M758R. give the output in a single Json.
+
+
+Demonstration 2: 
+
+    Generate 6 aircraft in sector 6. Ensure to use complete air_routes from the document. give the output in a single JSON file.
+ (L2) 
+
+    Modify the previous output  such that the aircraft are on routes M758 and M771. Ensure to use complete air_routes from the document. give the output in a single JSON file.
+
+    Modify the scenario such that the aircraft are separated by time 100. 
+
+    Add another aircraft on airway ZZZ starting at time 300. 
+
+
+
+Extra demo:
+    Generate a medium traffic scenario where 4 aircraft travel from EAST to WEST and 2 aircraft travel form WEST to EAST.
+
+
+
+
+
+
+
+
+
+
+
+Prompts: 23 Jan2025
+
+1. Generate 4 aircraft on airway M761. The final flight level should be 350. The aircraft should be separated by 150 seconds with first aircraft starting at time 0. Generate the output in the correct JSON format as in schema_1.
+
+2. To the previous scenario, add 4 aircraft on airway M758R separated by 200 seconds. The final flight level should be 350 with the first aircraft starting at time 100. 
+
+3. To the previous scenario, add 3 aircraft of type A320 on airway N892 separated by 150 seconds. The final flight level should be 350 with the first aircraft starting at time 100.
+
+4. To the previous scenario, add 3 aircraft on airway N884 separated by 150 seconds. The final flight level should be 350 with the first aircraft starting at time 0.
+
+5. To the previous scenario, add 3 aircraft on airway N875 separated by 150 seconds. The final flight level should be 350 with the first aircraft starting at time 0.

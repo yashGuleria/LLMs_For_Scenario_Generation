@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<ifp>
+	<experiment-date>
+		<day>6</day>
+		<month>3</month>
+		<year>2022</year>
+	</experiment-date>
+	<experiment-time>00000</experiment-time>
+	<default-equipment>SSR_MODE_A+SSR_MODE_C+P_RNAV+FMS+FMS_GUIDANCE_VNAV+FMS_GUIDANCE_SPEED</default-equipment>
+	<initial-flightplans key="initial-flightplans:aircraft1">
+		<usage>ALL</usage>
+		<time>600</time>
+		<callsign>SQaircraft1</callsign>
+		<rules/>
+		<squawk units="octal">5767</squawk>
+		<type>B738</type>
+		<waketurb>MEDIUM</waketurb>
+		<equip/>
+		<vehicle_type/>
+		<dep>
+			<af>WSSS</af>
+			<rwy/>
+		</dep>
+		<des>
+			<af>ZSFZ</af>
+		</des>
+		<air_route>VMR</air_route>
+		<air_route>RAXIM</air_route>
+		<air_route>OTLON</air_route>
+		<air_route>VISAT</air_route>
+		<air_route>DUBSA</air_route>
+		<air_route>DAMOG</air_route>
+		<air_route>DOLOX</air_route>
+		<rfl>160</rfl>
+		<init>
+			<pos>
+				<lat>022318.00N</lat>
+				<lon>1035218.00E</lon>
+			</pos>
+			<freq>SINRADS1</freq>
+			<alt units="FL">400</alt>
+			<hdg>65.00</hdg>
+		</init>
+	</initial-flightplans>
+</ifp>

@@ -1,0 +1,2111 @@
+Type 1 Scenario Validation Summary
+==================================================
+Report Generated: 2025-01-07 12:03:25
+--------------------------------------------------
+Total scenarios processed: 50
+Completely valid scenarios: 0 (0.0%)
+Scenarios with correct aircraft count (1-4): 50 (100.0%)
+Scenarios with all aircraft on same airway: 50 (100.0%)
+
+Detailed Results
+--------------------
+
+Scenario: scenario_20250107_105513_iteration_22.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105626_iteration_33.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105805_iteration_48.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105334_iteration_7.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105732_iteration_43.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105712_iteration_40.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105726_iteration_42.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105427_iteration_15.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105719_iteration_41.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105506_iteration_21.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105639_iteration_35.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105758_iteration_47.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105752_iteration_46.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105407_iteration_12.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105414_iteration_13.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105818_iteration_50.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105559_iteration_29.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105652_iteration_37.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105705_iteration_39.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105745_iteration_45.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105347_iteration_9.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105540_iteration_26.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105526_iteration_24.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105739_iteration_44.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105453_iteration_19.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105420_iteration_14.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105440_iteration_17.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105632_iteration_34.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105606_iteration_30.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105646_iteration_36.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105546_iteration_27.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105553_iteration_28.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105301_iteration_2.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105321_iteration_5.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105400_iteration_11.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105434_iteration_16.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105327_iteration_6.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105613_iteration_31.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105520_iteration_23.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105812_iteration_49.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105314_iteration_4.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105354_iteration_10.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105307_iteration_3.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105533_iteration_25.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105447_iteration_18.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105254_iteration_1.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105340_iteration_8.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105500_iteration_20.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105619_iteration_32.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_105659_iteration_38.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✓ (M758)
+Valid Aircraft Types: ✓
+Valid Airports: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WMKK, Found: WBKK
+    - Invalid destination airport. Expected: WBKK, Found: WMKK
+
+Aircraft 3:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------

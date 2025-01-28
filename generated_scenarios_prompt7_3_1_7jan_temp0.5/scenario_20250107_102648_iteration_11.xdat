@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<ifp>
+	<experiment-date>
+		<day>6</day>
+		<month>3</month>
+		<year>2022</year>
+	</experiment-date>
+	<experiment-time>00000</experiment-time>
+	<default-equipment>SSR_MODE_A+SSR_MODE_C+P_RNAV+FMS+FMS_GUIDANCE_VNAV+FMS_GUIDANCE_SPEED</default-equipment>
+	<initial-flightplans key="initial-flightplans:1">
+		<usage>ALL</usage>
+		<time>300</time>
+		<callsign>SQ1</callsign>
+		<rules/>
+		<squawk units="octal">4714</squawk>
+		<type>A320</type>
+		<waketurb>MEDIUM</waketurb>
+		<equip/>
+		<vehicle_type/>
+		<dep>
+			<af>WMKK</af>
+			<rwy/>
+		</dep>
+		<des>
+			<af>WBKK</af>
+		</des>
+		<air_route>IDSEL</air_route>
+		<air_route>URIGO</air_route>
+		<air_route>VISAT</air_route>
+		<air_route>MABAL</air_route>
+		<air_route>ELGOR</air_route>
+		<air_route>OPULA</air_route>
+		<air_route>LUSMO</air_route>
+		<rfl>370</rfl>
+		<init>
+			<pos>
+				<lat>032432.00N</lat>
+				<lon>1035544.00E</lon>
+			</pos>
+			<freq>SINRADS1</freq>
+			<alt units="FL">370</alt>
+			<hdg>87.11</hdg>
+		</init>
+	</initial-flightplans>
+	<initial-flightplans key="initial-flightplans:2">
+		<usage>ALL</usage>
+		<time>600</time>
+		<callsign>SQ2</callsign>
+		<rules/>
+		<squawk units="octal">0475</squawk>
+		<type>A333</type>
+		<waketurb>HEAVY</waketurb>
+		<equip/>
+		<vehicle_type/>
+		<dep>
+			<af>WBKK</af>
+			<rwy/>
+		</dep>
+		<des>
+			<af>WBGG</af>
+		</des>
+		<air_route>VPK</air_route>
+		<air_route>OBDAB</air_route>
+		<air_route>KETOD</air_route>
+		<air_route>OTLON</air_route>
+		<air_route>KILOT</air_route>
+		<air_route>LIPRO</air_route>
+		<air_route>BUNTO</air_route>
+		<air_route>VERIN</air_route>
+		<air_route>OMBAP</air_route>
+		<air_route>BOBOB</air_route>
+		<air_route>SABIP</air_route>
+		<rfl>160</rfl>
+		<init>
+			<pos>
+				<lat>032259.00N</lat>
+				<lon>1032524.00E</lon>
+			</pos>
+			<freq>SINRADS1</freq>
+			<alt units="FL">160</alt>
+			<hdg>105.36</hdg>
+		</init>
+	</initial-flightplans>
+	<initial-flightplans key="initial-flightplans:3">
+		<usage>ALL</usage>
+		<time>1200</time>
+		<callsign>SQ3</callsign>
+		<rules/>
+		<squawk units="octal">1777</squawk>
+		<type>B738</type>
+		<waketurb>MEDIUM</waketurb>
+		<equip/>
+		<vehicle_type/>
+		<dep>
+			<af>RCTP</af>
+			<rwy/>
+		</dep>
+		<des>
+			<af>WMKK</af>
+		</des>
+		<air_route>MABLI</air_route>
+		<air_route>SUSAR</air_route>
+		<air_route>DUBSA</air_route>
+		<air_route>UGPEK</air_route>
+		<air_route>DOVOL</air_route>
+		<air_route>PADLI</air_route>
+		<rfl>400</rfl>
+		<init>
+			<pos>
+				<lat>041717.00N</lat>
+				<lon>1061247.00E</lon>
+			</pos>
+			<freq>SINRADS1</freq>
+			<alt units="FL">400</alt>
+			<hdg>250</hdg>
+		</init>
+	</initial-flightplans>
+	<initial-flightplans key="initial-flightplans:4">
+		<usage>ALL</usage>
+		<time>1500</time>
+		<callsign>SQ4</callsign>
+		<rules/>
+		<squawk units="octal">2311</squawk>
+		<type>B738</type>
+		<waketurb>MEDIUM</waketurb>
+		<equip/>
+		<vehicle_type/>
+		<dep>
+			<af>WMKK</af>
+			<rwy/>
+		</dep>
+		<des>
+			<af>RCTP</af>
+		</des>
+		<air_route>PADLI</air_route>
+		<air_route>DOVOL</air_route>
+		<air_route>UGPEK</air_route>
+		<air_route>DUBSA</air_route>
+		<air_route>SUSAR</air_route>
+		<air_route>MABLI</air_route>
+		<rfl>400</rfl>
+		<init>
+			<pos>
+				<lat>030918.00N</lat>
+				<lon>1033133.00E</lon>
+			</pos>
+			<freq>SINRADS1</freq>
+			<alt units="FL">400</alt>
+			<hdg>34.60</hdg>
+		</init>
+	</initial-flightplans>
+</ifp>

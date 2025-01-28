@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<ifp>
+	<experiment-date>
+		<day>6</day>
+		<month>3</month>
+		<year>2022</year>
+	</experiment-date>
+	<experiment-time>00000</experiment-time>
+	<default-equipment>SSR_MODE_A+SSR_MODE_C+P_RNAV+FMS+FMS_GUIDANCE_VNAV+FMS_GUIDANCE_SPEED</default-equipment>
+	<initial-flightplans key="initial-flightplans:aircraft_one">
+		<usage>ALL</usage>
+		<time>300</time>
+		<callsign>SQaircraft_one</callsign>
+		<rules/>
+		<squawk units="octal">2637</squawk>
+		<type>A320</type>
+		<waketurb>MEDIUM</waketurb>
+		<equip/>
+		<vehicle_type/>
+		<dep>
+			<af>WMKK</af>
+			<rwy/>
+		</dep>
+		<des>
+			<af>WBKK</af>
+		</des>
+		<air_route>IDSEL</air_route>
+		<air_route>URIGO</air_route>
+		<air_route>VISAT</air_route>
+		<air_route>MABAL</air_route>
+		<air_route>ELGOR</air_route>
+		<air_route>OPULA</air_route>
+		<air_route>LUSMO</air_route>
+		<rfl>370</rfl>
+		<init>
+			<pos>
+				<lat>032432.00N</lat>
+				<lon>1035544.00E</lon>
+			</pos>
+			<freq>SINRADS1</freq>
+			<alt units="FL">370</alt>
+			<hdg>87.11</hdg>
+		</init>
+	</initial-flightplans>
+	<initial-flightplans key="initial-flightplans:aircraft_two">
+		<usage>ALL</usage>
+		<time>400</time>
+		<callsign>SQaircraft_two</callsign>
+		<rules/>
+		<squawk units="octal">4277</squawk>
+		<type>B738</type>
+		<waketurb>MEDIUM</waketurb>
+		<equip/>
+		<vehicle_type/>
+		<dep>
+			<af>WBGG</af>
+			<rwy/>
+		</dep>
+		<des>
+			<af>WMKK</af>
+		</des>
+		<air_route>SABIP</air_route>
+		<air_route>BOBOB</air_route>
+		<air_route>OMBAP</air_route>
+		<air_route>VERIN</air_route>
+		<air_route>BUNTO</air_route>
+		<air_route>LIPRO</air_route>
+		<air_route>KILOT</air_route>
+		<air_route>OTLON</air_route>
+		<air_route>KETOD</air_route>
+		<air_route>OBDAB</air_route>
+		<air_route>VPK</air_route>
+		<rfl>380</rfl>
+		<init>
+			<pos>
+				<lat>020940.00N</lat>
+				<lon>1075044.00E</lon>
+			</pos>
+			<freq>SINRADS1</freq>
+			<alt units="FL">380</alt>
+			<hdg>285.33</hdg>
+		</init>
+	</initial-flightplans>
+	<initial-flightplans key="initial-flightplans:aircraft_three">
+		<usage>ALL</usage>
+		<time>500</time>
+		<callsign>SQaircraft_three</callsign>
+		<rules/>
+		<squawk units="octal">0550</squawk>
+		<type>B738</type>
+		<waketurb>MEDIUM</waketurb>
+		<equip/>
+		<vehicle_type/>
+		<dep>
+			<af>RCTP</af>
+			<rwy/>
+		</dep>
+		<des>
+			<af>WMKK</af>
+		</des>
+		<air_route>MABLI</air_route>
+		<air_route>SUSAR</air_route>
+		<air_route>DUBSA</air_route>
+		<air_route>UGPEK</air_route>
+		<air_route>DOVOL</air_route>
+		<air_route>PADLI</air_route>
+		<rfl>400</rfl>
+		<init>
+			<pos>
+				<lat>041717.00N</lat>
+				<lon>1061247.00E</lon>
+			</pos>
+			<freq>SINRADS1</freq>
+			<alt units="FL">400</alt>
+			<hdg>250</hdg>
+		</init>
+	</initial-flightplans>
+</ifp>

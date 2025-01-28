@@ -1,0 +1,210 @@
+Validation Summary
+==================================================
+Report Generated: 2025-01-02 13:28:29
+--------------------------------------------------
+Total scenarios processed: 50
+Completely valid scenarios: 50 (100.0%)
+Scenarios with correct aircraft count: 50 (100.0%)
+
+Detailed Results
+--------------------
+
+Scenario: scenario_20241231_133551_iteration_33.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133602_iteration_34.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133422_iteration_25.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133720_iteration_41.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133304_iteration_18.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133859_iteration_50.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133040_iteration_5.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133400_iteration_23.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133826_iteration_47.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133433_iteration_26.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133253_iteration_17.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133102_iteration_7.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133337_iteration_21.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133029_iteration_4.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133007_iteration_2.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133646_iteration_38.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133709_iteration_40.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133657_iteration_39.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133242_iteration_16.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133635_iteration_37.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133455_iteration_28.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133051_iteration_6.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133158_iteration_12.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133731_iteration_42.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133815_iteration_46.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133848_iteration_49.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133753_iteration_44.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133114_iteration_8.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133147_iteration_11.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133411_iteration_24.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133804_iteration_45.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133624_iteration_36.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133326_iteration_20.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133231_iteration_15.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133540_iteration_32.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133220_iteration_14.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133125_iteration_9.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133742_iteration_43.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133444_iteration_27.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133613_iteration_35.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_132956_iteration_1.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133349_iteration_22.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133837_iteration_48.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133517_iteration_30.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133136_iteration_10.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133529_iteration_31.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133209_iteration_13.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133315_iteration_19.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133506_iteration_29.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID
+
+Scenario: scenario_20241231_133018_iteration_3.xdat
+Aircraft Count: ✓ (7 aircraft)
+Overall Status: VALID

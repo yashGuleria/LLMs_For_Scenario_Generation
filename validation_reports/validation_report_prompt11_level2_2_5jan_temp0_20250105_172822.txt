@@ -1,0 +1,2765 @@
+Validation Summary
+==================================================
+Report Generated: 2025-01-05 17:28:23
+--------------------------------------------------
+Total scenarios processed: 29
+Completely valid scenarios: 0 (0.0%)
+Scenarios with correct aircraft count: 29 (100.0%)
+
+Detailed Results
+--------------------
+
+Scenario: scenario_20250105_172154_iteration_18.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_171740_iteration_3.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_171706_iteration_1.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_172318_iteration_23.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_171939_iteration_10.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_171922_iteration_9.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_172335_iteration_24.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_172244_iteration_21.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_172137_iteration_17.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_172227_iteration_20.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_171905_iteration_8.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_172120_iteration_16.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_172103_iteration_15.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_171956_iteration_11.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_171723_iteration_2.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_172408_iteration_26.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_172351_iteration_25.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_172459_iteration_29.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_172013_iteration_12.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_171848_iteration_7.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_171814_iteration_5.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_171831_iteration_6.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_172301_iteration_22.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_171757_iteration_4.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_172425_iteration_27.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_172030_iteration_13.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_172210_iteration_19.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_172046_iteration_14.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250105_172442_iteration_28.xdat
+Aircraft Count: ✓ (12 aircraft)
+Routes Valid: ✗
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WMKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------

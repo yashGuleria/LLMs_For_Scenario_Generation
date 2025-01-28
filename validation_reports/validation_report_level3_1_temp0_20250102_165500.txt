@@ -1,0 +1,1961 @@
+Type 1 Scenario Validation Summary
+==================================================
+Report Generated: 2025-01-02 16:55:00
+--------------------------------------------------
+Total scenarios processed: 50
+Completely valid scenarios: 0 (0.0%)
+Scenarios with correct aircraft count (1-4): 50 (100.0%)
+Scenarios with all aircraft on same airway: 0 (0.0%)
+
+Detailed Results
+--------------------
+
+Scenario: scenario_20250102_164536_iteration_9.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164556_iteration_12.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164522_iteration_7.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164502_iteration_4.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164825_iteration_34.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164811_iteration_32.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164643_iteration_19.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164959_iteration_48.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164737_iteration_27.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164657_iteration_21.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164831_iteration_35.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164637_iteration_18.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164758_iteration_30.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164449_iteration_2.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164911_iteration_41.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164651_iteration_20.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164905_iteration_40.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164838_iteration_36.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164603_iteration_13.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164711_iteration_23.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164549_iteration_11.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164717_iteration_24.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164939_iteration_45.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164845_iteration_37.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164804_iteration_31.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164751_iteration_29.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164529_iteration_8.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164616_iteration_15.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164932_iteration_44.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164818_iteration_33.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164724_iteration_25.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164509_iteration_5.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164623_iteration_16.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164945_iteration_46.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164925_iteration_43.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164952_iteration_47.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164455_iteration_3.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_165006_iteration_49.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164858_iteration_39.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164610_iteration_14.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164851_iteration_38.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164744_iteration_28.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164543_iteration_10.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164918_iteration_42.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164442_iteration_1.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164731_iteration_26.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164516_iteration_6.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164630_iteration_17.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_164704_iteration_22.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250102_165013_iteration_50.xdat
+Aircraft Count: ✓ (4 aircraft)
+Common Airway: ✗ (M771)
+Valid Aircraft Types: ✓
+Valid Airports: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Overall Status: INVALID
+--------------------------------------------------

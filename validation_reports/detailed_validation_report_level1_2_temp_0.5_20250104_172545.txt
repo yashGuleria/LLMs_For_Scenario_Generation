@@ -1,0 +1,379 @@
+Enhanced Validation Summary
+======================================================================
+Report Generated: 2025-01-04 17:25:45
+----------------------------------------------------------------------
+Total scenarios processed: 49
+Completely valid scenarios: 45 (91.8%)
+
+Detailed Results by Scenario
+======================================================================
+
+Scenario: scenario_20250102_112903_iteration_32.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112728_iteration_15.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_113032_iteration_49.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112936_iteration_38.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112852_iteration_30.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112628_iteration_4.xdat
+---------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112655_iteration_9.xdat
+---------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112756_iteration_20.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_113037_iteration_50.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112622_iteration_3.xdat
+---------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112745_iteration_18.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112841_iteration_28.xdat
+----------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 2:
+    Type: B734
+    Route: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+    - Aircraft 2: Invalid departure airport for airway M771. Expected: WSSS, Found: ZSFZ
+    - Aircraft 2: Invalid destination airport for airway M771. Expected: ZSFZ, Found: WSSS
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112712_iteration_12.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112953_iteration_42.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112750_iteration_19.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112908_iteration_33.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_113015_iteration_46.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112813_iteration_23.xdat
+----------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 3:
+    Type: B738
+    Route: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON
+    - Aircraft 3: No matching airway found for route: ['SABIP', 'BOBOB', 'OMBAP', 'VERIN', 'BUNTO', 'LIPRO', 'KILOT', 'OTLON']
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_113005_iteration_44.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112801_iteration_21.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112919_iteration_35.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112650_iteration_8.xdat
+---------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 2:
+    Type: B734
+    Route: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+    - Aircraft 2: Invalid departure airport for airway M771. Expected: WSSS, Found: ZSFZ
+    - Aircraft 2: Invalid destination airport for airway M771. Expected: ZSFZ, Found: WSSS
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112959_iteration_43.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112835_iteration_27.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112739_iteration_17.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112857_iteration_31.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112723_iteration_14.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112701_iteration_10.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112948_iteration_41.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112819_iteration_24.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_113026_iteration_48.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112639_iteration_6.xdat
+---------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112930_iteration_37.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_113021_iteration_47.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112846_iteration_29.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112644_iteration_7.xdat
+---------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112914_iteration_34.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112706_iteration_11.xdat
+----------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 2:
+    Type: B734
+    Route: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+    - Aircraft 2: Invalid departure airport for airway M771. Expected: WSSS, Found: ZSFZ
+    - Aircraft 2: Invalid destination airport for airway M771. Expected: ZSFZ, Found: WSSS
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112830_iteration_26.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112943_iteration_40.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112925_iteration_36.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112717_iteration_13.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112734_iteration_16.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112633_iteration_5.xdat
+---------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_113010_iteration_45.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112611_iteration_1.xdat
+---------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112824_iteration_25.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112806_iteration_22.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_112617_iteration_2.xdat
+---------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------

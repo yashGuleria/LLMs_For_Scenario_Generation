@@ -1,0 +1,473 @@
+Enhanced Validation Summary
+======================================================================
+Report Generated: 2025-01-04 17:27:22
+----------------------------------------------------------------------
+Total scenarios processed: 50
+Completely valid scenarios: 31 (62.0%)
+
+Detailed Results by Scenario
+======================================================================
+
+Scenario: scenario_20250102_110547_iteration_32.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110343_iteration_9.xdat
+---------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110608_iteration_36.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110725_iteration_50.xdat
+----------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 3:
+    Type: B738
+    Route: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+    - Aircraft 3: Invalid departure airport for airway N892. Expected: RCTP, Found: RCTA
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110703_iteration_46.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110437_iteration_19.xdat
+----------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 3:
+    Type: B738
+    Route: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+    - Aircraft 3: Invalid departure airport for airway N892. Expected: RCTP, Found: RCTA
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110305_iteration_2.xdat
+---------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110410_iteration_14.xdat
+----------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 3:
+    Type: B738
+    Route: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+    - Aircraft 3: Invalid departure airport for airway N892. Expected: RCTP, Found: RCTA
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110614_iteration_37.xdat
+----------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 3:
+    Type: B738
+    Route: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+    - Aircraft 3: Invalid departure airport for airway N892. Expected: RCTP, Found: RCTA
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110536_iteration_30.xdat
+----------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 3:
+    Type: B738
+    Route: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+    - Aircraft 3: Invalid departure airport for airway N892. Expected: RCTP, Found: RCTA
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110453_iteration_22.xdat
+----------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 3:
+    Type: B738
+    Route: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+    - Aircraft 3: Invalid departure airport for airway N892. Expected: RCTP, Found: RCTA
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110520_iteration_27.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110558_iteration_34.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110415_iteration_15.xdat
+----------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 3:
+    Type: B738
+    Route: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+    - Aircraft 3: Invalid departure airport for airway N892. Expected: RCTP, Found: RCTA
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110349_iteration_10.xdat
+----------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 3:
+    Type: B738
+    Route: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+    - Aircraft 3: Invalid departure airport for airway N892. Expected: RCTP, Found: RCTA
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110316_iteration_4.xdat
+---------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110652_iteration_44.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110310_iteration_3.xdat
+---------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110509_iteration_25.xdat
+----------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 2:
+    Type: B738
+    Route: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD
+    - Aircraft 2: No matching airway found for route: ['SABIP', 'BOBOB', 'OMBAP', 'VERIN', 'BUNTO', 'LIPRO', 'KILOT', 'OTLON', 'KETOD']
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110458_iteration_23.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110714_iteration_48.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110647_iteration_43.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110641_iteration_42.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110338_iteration_8.xdat
+---------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110421_iteration_16.xdat
+----------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 3:
+    Type: B738
+    Route: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+    - Aircraft 3: Invalid departure airport for airway N892. Expected: RCTP, Found: RCTA
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110432_iteration_18.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110359_iteration_12.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110448_iteration_21.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110719_iteration_49.xdat
+----------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 3:
+    Type: B738
+    Route: PAION -> KAMIN -> TPG -> AGoba -> BOBOB -> DAMOG -> SUSAR -> MABLI
+    - Aircraft 3: No matching airway found for route: ['PAION', 'KAMIN', 'TPG', 'AGoba', 'BOBOB', 'DAMOG', 'SUSAR', 'MABLI']
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110603_iteration_35.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110531_iteration_29.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110630_iteration_40.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110525_iteration_28.xdat
+----------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 3:
+    Type: B738
+    Route: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+    - Aircraft 3: Invalid departure airport for airway N892. Expected: RCTP, Found: RCTA
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110504_iteration_24.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110426_iteration_17.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110620_iteration_38.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110354_iteration_11.xdat
+----------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 3:
+    Type: B738
+    Route: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+    - Aircraft 3: Invalid departure airport for airway N892. Expected: RCTP, Found: RCTA
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110658_iteration_45.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110327_iteration_6.xdat
+---------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110442_iteration_20.xdat
+----------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 3:
+    Type: B738
+    Route: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+    - Aircraft 3: Invalid departure airport for airway N892. Expected: RCTP, Found: RCTA
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110321_iteration_5.xdat
+---------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 2:
+    Type: B738
+    Route: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD
+    - Aircraft 2: No matching airway found for route: ['SABIP', 'BOBOB', 'OMBAP', 'VERIN', 'BUNTO', 'LIPRO', 'KILOT', 'OTLON', 'KETOD']
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110708_iteration_47.xdat
+----------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 3:
+    Type: B738
+    Route: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+    - Aircraft 3: Invalid departure airport for airway N892. Expected: RCTP, Found: RCTA
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110259_iteration_1.xdat
+---------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110405_iteration_13.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110636_iteration_41.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110541_iteration_31.xdat
+----------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 3:
+    Type: B738
+    Route: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+    - Aircraft 3: Invalid departure airport for airway N892. Expected: RCTP, Found: RCTA
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110552_iteration_33.xdat
+----------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110515_iteration_26.xdat
+----------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 3:
+    Type: B738
+    Route: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+    - Aircraft 3: Invalid departure airport for airway N892. Expected: RCTP, Found: RCTA
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110625_iteration_39.xdat
+----------------------------------------------------
+Status: Invalid
+Aircraft Count: 3 (Valid)
+
+Aircraft-specific Errors:
+  Aircraft 2:
+    Type: B738
+    Route: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD
+    - Aircraft 2: No matching airway found for route: ['SABIP', 'BOBOB', 'OMBAP', 'VERIN', 'BUNTO', 'LIPRO', 'KILOT', 'OTLON', 'KETOD']
+
+----------------------------------------------------------------------
+
+Scenario: scenario_20250102_110332_iteration_7.xdat
+---------------------------------------------------
+Status: Valid
+Aircraft Count: 3 (Valid)
+
+----------------------------------------------------------------------

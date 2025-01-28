@@ -1,0 +1,2165 @@
+N892 Scenario Validation Summary
+==================================================
+Report Generated: 2025-01-03 18:06:07
+--------------------------------------------------
+Total scenarios processed: 50
+Completely valid scenarios: 50 (100.0%)
+
+Requirements Check Summary:
+- Correct aircraft count (4): 50
+- Correct aircraft types (2 A320s, 2 B737s): 50
+- Valid routes (N892): 50
+- Correct time separation (150s): 50
+
+Detailed Results
+--------------------
+
+Scenario: scenario_20250103_174522_iteration_6.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174826_iteration_35.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174625_iteration_16.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174515_iteration_5.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174606_iteration_13.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_180411_iteration_7.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174735_iteration_27.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_180436_iteration_11.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_180358_iteration_5.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174754_iteration_30.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174651_iteration_20.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174600_iteration_12.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_180456_iteration_14.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174728_iteration_26.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_180352_iteration_4.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174503_iteration_3.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174631_iteration_17.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174509_iteration_4.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_180430_iteration_10.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174807_iteration_32.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174644_iteration_19.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174553_iteration_11.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_180424_iteration_9.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174456_iteration_2.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174747_iteration_29.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174716_iteration_24.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174612_iteration_14.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_180443_iteration_12.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174819_iteration_34.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_180502_iteration_15.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174703_iteration_22.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174619_iteration_15.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_180333_iteration_1.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174534_iteration_8.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174547_iteration_10.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_180339_iteration_2.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174800_iteration_31.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174528_iteration_7.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_180345_iteration_3.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174657_iteration_21.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174638_iteration_18.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_180404_iteration_6.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174722_iteration_25.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174450_iteration_1.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_180449_iteration_13.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174813_iteration_33.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_180417_iteration_8.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174741_iteration_28.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174541_iteration_9.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_174710_iteration_23.xdat
+Aircraft Count: ✓ (4/4 aircraft)
+Aircraft Types: ✓
+  A320s: 2/2
+  B737s: 2/2
+Routes (N892): ✓
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+
+Overall Status: VALID
+--------------------------------------------------

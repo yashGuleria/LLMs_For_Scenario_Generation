@@ -1,0 +1,960 @@
+Scenario Validation Summary
+==================================================
+Report Generated: 2025-01-07 14:47:32
+--------------------------------------------------
+Total scenarios processed: 30
+Completely valid scenarios: 6 (20.0%)
+
+Scenario: scenario_20250107_142636_iteration_50.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142535_iteration_33.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142413_iteration_8.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142447_iteration_20.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Time: 300s
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Time: 500s
+  Valid: ✓
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142548_iteration_37.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Time: 300s
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Time: 500s
+  Valid: ✓
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142525_iteration_27.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Time: 300s
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Time: 500s
+  Valid: ✓
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142357_iteration_5.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Time: 300s
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Time: 500s
+  Valid: ✓
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142458_iteration_22.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142435_iteration_17.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142620_iteration_43.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142553_iteration_38.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142625_iteration_44.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142419_iteration_9.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142542_iteration_35.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142559_iteration_39.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142424_iteration_10.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142604_iteration_40.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142453_iteration_21.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Time: 300s
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Time: 500s
+  Valid: ✓
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142352_iteration_4.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142509_iteration_24.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142519_iteration_26.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✓
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Time: 300s
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Time: 500s
+  Valid: ✓
+
+Overall Status: VALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142514_iteration_25.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142341_iteration_2.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142408_iteration_7.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142403_iteration_6.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142442_iteration_19.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142336_iteration_1.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142615_iteration_42.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142503_iteration_23.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250107_142609_iteration_41.xdat
+Aircraft Count: ✓ (3 aircraft)
+Airways and Timing: ✗
+
+Validation Details:
+
+Aircraft 1:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Time: 100s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 2:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Time: 300s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Aircraft 3:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Time: 500s
+  Valid: ✗
+  Errors:
+    - Incorrect airway combination. Required: {'M758', 'M761', 'N884'}, Found: {'M758', 'N892', 'M758R'}
+
+Overall Status: INVALID
+--------------------------------------------------

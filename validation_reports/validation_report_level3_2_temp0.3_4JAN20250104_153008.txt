@@ -1,0 +1,6565 @@
+12 Aircraft Scenario Validation Summary
+==================================================
+Report Generated: 2025-01-04 15:30:08
+--------------------------------------------------
+Total scenarios processed: 50
+Completely valid scenarios: 0 (0.0%)
+
+Requirements Check Summary:
+- Correct aircraft count (12): 50
+- All A388 aircraft: 0
+- Valid routes and airports: 0
+- Correct time separation: 50
+
+Detailed Results
+--------------------
+
+Scenario: scenario_20250103_145234_iteration_20.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 6:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145709_iteration_35.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 10:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145329_iteration_23.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 8:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: WBGG
+  Destination: WBGG
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: VDPP, Found: WBGG
+
+Aircraft 11:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WSSS, Found: ZSFZ
+    - Invalid destination airport. Expected: ZSFZ, Found: WSSS
+
+Aircraft 12:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145954_iteration_44.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: RCTA
+  Destination: WBGG
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: VDPP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 10:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145917_iteration_42.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: RCTA
+  Destination: WBGG
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: VDPP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 10:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145537_iteration_30.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 8:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['SABIP', 'BOBOB', 'OMBAP', 'VERIN', 'BUNTO', 'LIPRO']
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WSSS, Found: ZSFZ
+    - Invalid destination airport. Expected: ZSFZ, Found: WSSS
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145727_iteration_36.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+    - Invalid destination airport. Expected: WMKK, Found: WBKK
+
+Aircraft 8:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: URIGO -> VISAT
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['URIGO', 'VISAT']
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_150144_iteration_50.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: RCTA
+  Destination: WBGG
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: VDPP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 10:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_144816_iteration_6.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+    - Invalid destination airport. Expected: WMKK, Found: WBKK
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: ESPIT -> HOSBA -> TPG -> SJ -> KAMIN -> ATTOM
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['ESPIT', 'HOSBA', 'TPG', 'SJ', 'KAMIN', 'ATTOM']
+
+Aircraft 10:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: WSSS
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: WSSS
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_144721_iteration_3.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 10:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_144739_iteration_4.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 6:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_144930_iteration_10.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 8:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['SABIP', 'BOBOB', 'OMBAP', 'VERIN', 'BUNTO', 'LIPRO']
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WSSS, Found: ZSFZ
+    - Invalid destination airport. Expected: ZSFZ, Found: WSSS
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145442_iteration_27.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+    - Invalid destination airport. Expected: WMKK, Found: WBKK
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 11:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_150107_iteration_48.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: RCTA
+  Destination: WBGG
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: VDPP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 10:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145651_iteration_34.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: RCTA
+  Destination: WBGG
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: VDPP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 10:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145310_iteration_22.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['SABIP', 'BOBOB', 'OMBAP', 'VERIN', 'BUNTO', 'LIPRO', 'KILOT']
+
+Aircraft 11:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145935_iteration_43.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 8:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['SABIP', 'BOBOB', 'OMBAP', 'VERIN', 'BUNTO', 'LIPRO']
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WSSS, Found: ZSFZ
+    - Invalid destination airport. Expected: ZSFZ, Found: WSSS
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145405_iteration_25.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['SABIP', 'BOBOB', 'OMBAP', 'VERIN', 'BUNTO', 'LIPRO', 'KILOT']
+
+Aircraft 11:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145006_iteration_12.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: RCTA
+  Destination: WBGG
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: VDPP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 10:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145632_iteration_33.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+    - Invalid destination airport. Expected: WMKK, Found: WBKK
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: WSSS
+  Destination: WBGG
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: VDPP, Found: WSSS
+
+Aircraft 9:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WSSS, Found: ZSFZ
+    - Invalid destination airport. Expected: ZSFZ, Found: WSSS
+
+Aircraft 12:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145745_iteration_37.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 10:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145347_iteration_24.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['SABIP', 'BOBOB', 'OMBAP', 'VERIN', 'BUNTO']
+
+Aircraft 11:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['DOLOX', 'DAMOG', 'DUBSA', 'VISAT', 'OTLON']
+
+Aircraft 12:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_144644_iteration_1.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+    - Invalid destination airport. Expected: WMKK, Found: WBKK
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: HOSBA -> ESPIT -> TPG -> AGoba -> KAMIN -> SJ -> VJB
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['HOSBA', 'ESPIT', 'TPG', 'AGoba', 'KAMIN', 'SJ', 'VJB']
+
+Aircraft 10:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WSSS, Found: ZSFZ
+    - Invalid destination airport. Expected: ZSFZ, Found: WSSS
+
+Aircraft 11:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['VMR', 'MABLI', 'MUMSO', 'MABAL', 'KILOT', 'KIBOL', 'PEKLA']
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145043_iteration_14.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['SABIP', 'BOBOB', 'OMBAP', 'VERIN', 'BUNTO', 'LIPRO', 'KILOT']
+
+Aircraft 11:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145025_iteration_13.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: RCTA
+  Destination: WBGG
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: VDPP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 10:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_144702_iteration_2.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: RCTA
+  Destination: WBGG
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: VDPP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 10:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_144911_iteration_9.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: RCTA
+  Destination: WBGG
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: VDPP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 10:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145804_iteration_38.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: RCTA
+  Destination: WBGG
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: VDPP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 10:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_150049_iteration_47.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: RCTA
+  Destination: WBGG
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: VDPP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 10:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_144834_iteration_7.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+    - Invalid destination airport. Expected: WMKK, Found: WBKK
+
+Aircraft 8:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: URIGO -> VISAT
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['URIGO', 'VISAT']
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145215_iteration_19.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 8:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['SABIP', 'BOBOB', 'OMBAP', 'VERIN', 'BUNTO']
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WSSS, Found: ZSFZ
+    - Invalid destination airport. Expected: ZSFZ, Found: WSSS
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_144758_iteration_5.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+    - Invalid destination airport. Expected: WMKK, Found: WBKK
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 11:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145102_iteration_15.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['SABIP', 'BOBOB', 'OMBAP', 'VERIN', 'BUNTO', 'LIPRO']
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WSSS, Found: ZSFZ
+    - Invalid destination airport. Expected: ZSFZ, Found: WSSS
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145252_iteration_21.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['SABIP', 'BOBOB', 'OMBAP', 'VERIN', 'BUNTO', 'LIPRO', 'KILOT']
+
+Aircraft 11:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145614_iteration_32.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['SABIP', 'BOBOB', 'OMBAP', 'VERIN', 'BUNTO', 'LIPRO', 'KILOT']
+
+Aircraft 11:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145840_iteration_40.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['SABIP', 'BOBOB', 'OMBAP', 'VERIN', 'BUNTO', 'LIPRO', 'KILOT']
+
+Aircraft 11:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145555_iteration_31.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 6:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 12:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_144948_iteration_11.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: RCTA
+  Destination: WBGG
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: VDPP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 10:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145500_iteration_28.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: RCTA
+  Destination: WBGG
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: VDPP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 10:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145423_iteration_26.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: RCTA
+  Destination: WBGG
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: VDPP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 10:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_150030_iteration_46.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WBKK, Found: WMKK
+    - Invalid destination airport. Expected: WMKK, Found: WBKK
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: WSSS
+  Destination: WBGG
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: VDPP, Found: WSSS
+
+Aircraft 9:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTP
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WSSS, Found: ZSFZ
+    - Invalid destination airport. Expected: ZSFZ, Found: WSSS
+
+Aircraft 12:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_144853_iteration_8.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: RCTA
+  Destination: WBGG
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: VDPP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 10:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145859_iteration_41.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 7:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 10:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145518_iteration_29.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 8:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['SABIP', 'BOBOB', 'OMBAP', 'VERIN', 'BUNTO', 'LIPRO']
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WSSS, Found: ZSFZ
+    - Invalid destination airport. Expected: ZSFZ, Found: WSSS
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145138_iteration_17.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: RCTA
+  Destination: WBGG
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: VDPP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 10:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145157_iteration_18.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 8:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['SABIP', 'BOBOB', 'OMBAP', 'VERIN', 'BUNTO', 'LIPRO']
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WSSS, Found: ZSFZ
+    - Invalid destination airport. Expected: ZSFZ, Found: WSSS
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145120_iteration_16.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 8:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 9:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['SABIP', 'BOBOB', 'OMBAP', 'VERIN', 'BUNTO', 'LIPRO']
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WSSS, Found: ZSFZ
+    - Invalid destination airport. Expected: ZSFZ, Found: WSSS
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_150126_iteration_49.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: RCTA
+  Destination: WBGG
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: VDPP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 10:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_145822_iteration_39.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: MABLI -> MUMSO -> MABAL -> KILOT -> KIBOL -> PEKLA -> VMR
+  Matching Airway: N892
+  Departure: RCTA
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: RCTP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: LUSMO -> OPULA -> ELGOR -> MABAL -> VISAT -> URIGO -> IDSEL -> PADLI -> SAROX
+  Matching Airway: M758R
+  Departure: WBKK
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 10:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO
+  Matching Airway: None
+  Departure: None
+  Destination: None
+  Valid: ✗
+  Errors:
+    - No matching airway found for route: ['SABIP', 'BOBOB', 'OMBAP', 'VERIN', 'BUNTO']
+
+Aircraft 11:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: VDPP
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> RAXIM -> OTLON -> VISAT -> DUBSA -> DAMOG -> DOLOX
+  Matching Airway: M771
+  Departure: ZSFZ
+  Destination: WSSS
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: WSSS, Found: ZSFZ
+    - Invalid destination airport. Expected: ZSFZ, Found: WSSS
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------
+
+Scenario: scenario_20250103_150012_iteration_45.xdat
+Aircraft Count: ✓ (12/12 aircraft)
+Aircraft Types: ✗ (All A388)
+Routes and Airports: ✗
+Time Separation: ✓ (150s intervals)
+
+Route Details:
+
+Aircraft 1:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 2:
+  Waypoints: VPK -> OBDAB -> KETOD -> OTLON -> KILOT -> LIPRO -> BUNTO -> VERIN -> OMBAP -> BOBOB -> SABIP
+  Matching Airway: M761R
+  Departure: WMKK
+  Destination: WBGG
+  Valid: ✓
+
+Aircraft 3:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 4:
+  Waypoints: MABLI -> SUSAR -> DUBSA -> UGPEK -> DOVOL -> PADLI
+  Matching Airway: L635
+  Departure: RCTP
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 5:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 6:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 7:
+  Waypoints: PADLI -> DOVOL -> UGPEK -> DUBSA -> SUSAR -> MABLI
+  Matching Airway: L635R
+  Departure: WMKK
+  Destination: RCTP
+  Valid: ✓
+
+Aircraft 8:
+  Waypoints: DAMOG -> SUSAR -> MUMSO -> ELGOR -> LEBIN -> OMLIV -> BOBOB
+  Matching Airway: N875
+  Departure: RCTA
+  Destination: WBGG
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: VDPP, Found: RCTA
+
+Aircraft 9:
+  Waypoints: DOLOX -> DAMOG -> DUBSA -> VISAT -> OTLON -> RAXIM -> VMR
+  Matching Airway: M771R
+  Departure: WSSS
+  Destination: ZSFZ
+  Valid: ✗
+  Errors:
+    - Invalid departure airport. Expected: ZSFZ, Found: WSSS
+    - Invalid destination airport. Expected: WSSS, Found: ZSFZ
+
+Aircraft 10:
+  Waypoints: IDSEL -> URIGO -> VISAT -> MABAL -> ELGOR -> OPULA -> LUSMO
+  Matching Airway: M758
+  Departure: WMKK
+  Destination: WBKK
+  Valid: ✓
+
+Aircraft 11:
+  Waypoints: SABIP -> BOBOB -> OMBAP -> VERIN -> BUNTO -> LIPRO -> KILOT -> OTLON -> KETOD -> OBDAB -> VPK
+  Matching Airway: M761
+  Departure: WBGG
+  Destination: WMKK
+  Valid: ✓
+
+Aircraft 12:
+  Waypoints: VMR -> LENDA -> LIPRO -> LEBIN -> ONAPO -> LUSMO
+  Matching Airway: N884
+  Departure: WSSS
+  Destination: WBKK
+  Valid: ✓
+
+Time Separation Details:
+  Aircraft 1: Time = 0.0s (✓)
+  Aircraft 2: Time = 150.0s (✓)
+  Aircraft 3: Time = 300.0s (✓)
+  Aircraft 4: Time = 450.0s (✓)
+  Aircraft 5: Time = 600.0s (✓)
+  Aircraft 6: Time = 750.0s (✓)
+  Aircraft 7: Time = 900.0s (✓)
+  Aircraft 8: Time = 1050.0s (✓)
+  Aircraft 9: Time = 1200.0s (✓)
+  Aircraft 10: Time = 1350.0s (✓)
+  Aircraft 11: Time = 1500.0s (✓)
+  Aircraft 12: Time = 1650.0s (✓)
+
+Other Errors:
+  - Aircraft 1: Invalid type (not A388)
+  - Aircraft 2: Invalid type (not A388)
+  - Aircraft 3: Invalid type (not A388)
+  - Aircraft 4: Invalid type (not A388)
+  - Aircraft 5: Invalid type (not A388)
+  - Aircraft 6: Invalid type (not A388)
+  - Aircraft 7: Invalid type (not A388)
+  - Aircraft 8: Invalid type (not A388)
+  - Aircraft 9: Invalid type (not A388)
+  - Aircraft 10: Invalid type (not A388)
+  - Aircraft 11: Invalid type (not A388)
+  - Aircraft 12: Invalid type (not A388)
+
+Overall Status: INVALID
+--------------------------------------------------

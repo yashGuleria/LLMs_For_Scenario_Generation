@@ -216,7 +216,7 @@ def process_question(question: str, vector_db: Chroma, selected_model: str) -> s
     logger.info(f"""Processing question: {
                 question} using model: {selected_model}""")
     llm = ChatOllama(
-        # llm = ChatCohere(cohere_api_key='njPNUMUWPRMIoHRPoV8xSJvucU2sEZw99puyga7r',
+        # llm = ChatCohere(cohere_api_key='',
         model="llama3.1:8b-instruct-q8_0", temperature=0, streaming=True)
     # preamble=""" llama3.1:8b-instruct-q8_0 You are an AI system that generates traffic scenarios for a simulator.
     #             - When the user requests for a scenario, strictly give the output in JSON based on schema_1, otherwise reply normally.

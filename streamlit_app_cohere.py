@@ -270,7 +270,7 @@ def process_question(question: str, vector_db: Chroma, selected_model: str) -> s
     """
     logger.info(f"""Processing question: {
                 question} using model: {selected_model}""")
-    llm = ChatCohere(cohere_api_key="SKnc6YwodGhQ9lf0n44w7ymcruesLnDM4yWid7nP",
+    llm = ChatCohere(cohere_api_key="Ente API key",
                      model="command-r", temperature=0, streaming=True,
                      preamble="""You are an AI system that generates traffic scenarios for a simulator.
                     - When the user requests for a scenario, strictly give the output in JSON based on schema_1, otherwise reply normally.
